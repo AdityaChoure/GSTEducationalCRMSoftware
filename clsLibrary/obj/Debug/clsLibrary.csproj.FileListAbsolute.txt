@@ -1,0 +1,6 @@
+D:\.NET\mini project\GSTEducationalCRMSoftware\clsLibrary\bin\Debug\clsLibrary.dll
+D:\.NET\mini project\GSTEducationalCRMSoftware\clsLibrary\bin\Debug\clsLibrary.pdb
+D:\.NET\mini project\GSTEducationalCRMSoftware\clsLibrary\obj\Debug\clsLibrary.csproj.AssemblyReference.cache
+D:\.NET\mini project\GSTEducationalCRMSoftware\clsLibrary\obj\Debug\clsLibrary.csproj.CoreCompileInputs.cache
+D:\.NET\mini project\GSTEducationalCRMSoftware\clsLibrary\obj\Debug\clsLibrary.dll
+D:\.NET\mini project\GSTEducationalCRMSoftware\clsLibrary\obj\Debug\clsLibrary.pdb
